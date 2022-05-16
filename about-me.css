@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: #b8b8f0;
+}
+header {
+    background: #14141f;
+    color: #d1d1e0;
+    text-align: center;
+    padding: 25px 0;
+    margin-bottom: 25px;
+
+}
+
+img {
+    
+    border: 5px hotpink groove;
+    margin-right: 20px;
+}
+
+main{
+    background-color: #8585ad;
+    width: 800px;
+     padding: 25px;
+    border: groove #14141f 5px;
+    margin: 0 auto;
+}
+footer {
+    background: #14141f;
+        color: #d1d1e0;
+        text-align: center;
+        padding: 25px 0;
+        margin-top: 25px;
+}
+
+a{
+    color: brown;
+}
+
+.welcome {
+    text-align: center;
+}
+
+iframe {
+    margin-left: 100px;
+    border: groove 5px hotpink;
+}
+
